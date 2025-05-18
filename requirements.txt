@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+qdrant-client
+python-dotenv
+python-multipart
+pydantic-settings
+
+# Testing
+pytest
+requests
